@@ -1,0 +1,30 @@
+[ação]
+create a script to create a table in MySQL
+
+[context]
+- the first table is a table to save a pokemon tcg cards
+- the second table is a table to save collections set
+
+connect to table with foreign key
+
+[informações]
+first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info 
+- attack
+- dammage
+- weak
+- ressis.
+- retreat
+- cardNumberInColletion
+
+the second table: tbl_collections
+- id- colletionSetName
+- release Date
+- totalCardsInCollection
+
+#Quando colei no Copilot retirei os entre []
