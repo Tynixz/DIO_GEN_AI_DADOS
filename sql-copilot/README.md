@@ -48,24 +48,25 @@ Apesar das tentativas, o Copilot não conseguiu interpretar corretamente os text
 ## 🗂️ Estrutura do Projeto
 e-cards/
 ├── assets/
-│ ├── Card_Info.SVG.jpg
-│ └── charizard_card.jpg
+│   ├── Card_Info.SVG.jpg
+│   └── charizard_card.jpg
 │
 ├── db_scripts/
-│ ├── tables/
-│ │ └── 001_create_table.sql
-│ │
-│ ├── seeds/
-│ │ ├── 001_initial_seeds.sql
-│ │ ├── 002_bulk_cards_1.sql
-│ │ ├── 003_bulk_cards_2.sql
-│ │ └── 004_bulk_cards_3.sql
-│ │
-│ └── views/
-│ └── 001_view_cards.sql
+│   ├── tables/
+│   │   └── 001_create_table.sql
+│   │
+│   ├── seeds/
+│   │   ├── 001_initial_seeds.sql
+│   │   ├── 002_bulk_cards_1.sql
+│   │   ├── 003_bulk_cards_2.sql
+│   │   └── 004_bulk_cards_3.sql
+│   │
+│   └── views/
+│       └── 001_view_cards.sql
 │
 ├── prompts/
-│ └── tcg-cards.txt
+│   └── tcg-cards.txt
+
 
 ---
 
