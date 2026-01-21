@@ -46,6 +46,7 @@ Apesar das tentativas, o Copilot não conseguiu interpretar corretamente os text
 ---
 
 ## 🗂️ Estrutura do Projeto
+```
 e-cards/
 ├── assets/
 │   ├── Card_Info.SVG.jpg
@@ -66,7 +67,7 @@ e-cards/
 │
 ├── prompts/
 │   └── tcg-cards.txt
-
+```
 
 ---
 
