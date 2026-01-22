@@ -22,7 +22,7 @@ A ideia do projeto é estruturar informações presentes em uma carta Pokémon (
 
 ## 🧠 Processo com Copilot
 
-O GitHub Copilot foi utilizado como ferramenta de apoio ao longo do projeto, principalmente para:
+O Copilot foi utilizado como ferramenta de apoio ao longo do projeto, principalmente para:
 
 - Geração de scripts SQL a partir de prompts em linguagem natural  
 - Sugestões de modelagem relacional  
