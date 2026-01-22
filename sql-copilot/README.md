@@ -14,7 +14,7 @@ A ideia do projeto é estruturar informações presentes em uma carta Pokémon (
 ## 🎯 Objetivo
 
 - Modelar um banco de dados relacional para cartas Pokémon TCG  
-- Utilizar **GitHub Copilot** como apoio na criação de tabelas, seeds, views e scripts  
+- Utilizar **Copilot** como apoio na criação de tabelas, seeds, views e scripts  
 - Praticar boas práticas de organização de scripts SQL  
 - Facilitar consultas através de uma *view* consolidada  
 
