@@ -7,5 +7,6 @@ transacoes_unicas = []
 for transacoes in transacao:
   if transacoes not in transacoes_unicas:
     transacoes_unicas.append(transacoes)
-# print(' '.join(transacoes_unicas))  # Descomente após implementar a lógica
+# Descomente após implementar a lógica
+
 print(' '.join(transacoes_unicas))
